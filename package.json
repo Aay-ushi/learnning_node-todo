@@ -1,0 +1,18 @@
+{
+  "name": "todo-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aayushi Shreya",
+  "license": "ISC",
+  "dependencies": {
+    "consolidate": "*",
+    "pg": "*",
+    "yargs": "^13.2.4",
+    "express": "*",
+    "hbs": "^4.0.4"
+  }
+}
